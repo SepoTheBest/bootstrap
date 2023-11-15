@@ -1,10 +1,11 @@
 {
-  "name": "bootstrap",
+  "name": "my-project",
   "version": "1.0.0",
-  "description": "Tere mina olen sebastian\r Kuidas läheb? \r heihei\r jap\r lisasin",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
   },
   "keywords": [],
   "author": "",
